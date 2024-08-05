@@ -1,7 +1,7 @@
-RETO DE ANIMACIONES Y ESTILOS EN HTML Y CSS
+## RETO DE ANIMACIONES Y ESTILOS EN HTML Y CSS
 Este proyecto consiste en realizar un reto de animaciones con cierto nivel de complejidad usando solo HTML y CSS.
 
-Características principales
+## Características principales
 **Logo de Netflix animado:** Esta es la primera animación, la cual consiste en la animación del logo de Netflix.
 **Logotipo del navegador Safari:** Esta es la segunda animación, la cual consiste en animar las agujas del logo del navegador Safari de Apple.
 
